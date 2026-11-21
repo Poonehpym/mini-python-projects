@@ -13,5 +13,7 @@ A simple to-do app in the terminal.
 - Saves tasks to a file, so they stay after closing
 
 ## How to run
+```
 python dong.py
 python todo.py
+```
