@@ -17,3 +17,6 @@ A simple to-do app in the terminal.
 python dong.py
 python todo.py
 ```
+
+## Author
+Made by Pooneh while learning to code with AI.
